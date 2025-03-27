@@ -1,4 +1,4 @@
 # Nextcloud_setup
 Nextcloud interactive deployment
-with the hep of Hal 9000
+with the help of Hal 9000.1b
 # Nextcloud_setup
